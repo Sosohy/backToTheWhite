@@ -1,0 +1,12 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\backToTheWhite\backToTheWhite\bin\Debug\backToTheWhite.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\backToTheWhite\backToTheWhite\bin\Debug\backToTheWhite.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\backToTheWhite\backToTheWhite\bin\Debug\backToTheWhite.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\backToTheWhite\backToTheWhite\obj\Debug\backToTheWhite.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\backToTheWhite\backToTheWhite\obj\Debug\backToTheWhite.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\backToTheWhite\backToTheWhite\obj\Debug\backToTheWhite.pdb
+C:\Users\user\Documents\학교\프로그래밍기초\2017661022한소혜\backToTheWhite\backToTheWhite\bin\Debug\backToTheWhite.exe.config
+C:\Users\user\Documents\학교\프로그래밍기초\2017661022한소혜\backToTheWhite\backToTheWhite\obj\Debug\backToTheWhite.exe
+C:\Users\user\Documents\학교\프로그래밍기초\2017661022한소혜\backToTheWhite\backToTheWhite\obj\Debug\backToTheWhite.pdb
+C:\Users\user\Documents\학교\프로그래밍기초\2017661022한소혜\backToTheWhite\backToTheWhite\bin\Debug\backToTheWhite.exe
+C:\Users\user\Documents\학교\프로그래밍기초\2017661022한소혜\backToTheWhite\backToTheWhite\bin\Debug\backToTheWhite.pdb
+C:\Users\user\Documents\학교\프로그래밍기초\2017661022한소혜\backToTheWhite\backToTheWhite\obj\Debug\backToTheWhite.csprojResolveAssemblyReference.cache
